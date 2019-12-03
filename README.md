@@ -117,7 +117,7 @@ What you say about your changes (and how often you commit them) helps participan
 
 10. Push your changes to GitHub. 
 
-#### activity at the end of a gitshow session
+## activity at the end of a gitshow session
 
 We'll meet in the dispersion lab for a group improvisation, at 12pm on the last Thursday of a session -- Michael will be in touch to inform you of the date. Steps **9 and 10** must be completed before the improvisation meetup. 
 
